@@ -5,15 +5,15 @@ permalink: /about/
 ---
 ## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
+ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
+*/
 [Link to another page](/index.html).
 
 There should be whitespace between paragraphs.
 
-# Header 1
+# About me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a Pre-Doctoral Research Fellow at the [Vancouver School of Economics, UBC](https://economics.ubc.ca/) where I support Prof. [Patrick Baylis](https://www.patrickbaylis.com/) and Prof. [Matt Lowe](https://mattlowe.site/) on their environmental economics and development economics research agenda, respectively. I
 
 ## Header 2
 
